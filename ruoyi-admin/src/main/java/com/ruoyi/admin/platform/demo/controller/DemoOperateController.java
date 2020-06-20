@@ -1,4 +1,4 @@
-package com.ruoyi.admin.modules.demo.controller;
+package com.ruoyi.admin.platform.demo.controller;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
@@ -21,8 +21,8 @@ import com.ruoyi.common.core.text.Convert;
 import com.ruoyi.common.exception.BusinessException;
 import com.ruoyi.common.utils.StringUtils;
 import com.ruoyi.admin.platform.common.utils.ExcelUtil;
-import com.ruoyi.admin.modules.demo.domain.CustomerModel;
-import com.ruoyi.admin.modules.demo.domain.UserOperateModel;
+import com.ruoyi.admin.platform.demo.domain.CustomerModel;
+import com.ruoyi.admin.platform.demo.domain.UserOperateModel;
 
 /**
  * 操作控制

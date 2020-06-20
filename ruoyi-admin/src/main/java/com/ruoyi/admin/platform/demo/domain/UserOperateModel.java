@@ -1,4 +1,4 @@
-package com.ruoyi.admin.modules.demo.domain;
+package com.ruoyi.admin.platform.demo.domain;
 
 import java.util.Date;
 import com.ruoyi.admin.platform.common.annotation.Excel;

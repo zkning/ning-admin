@@ -1,4 +1,4 @@
-package com.ruoyi.admin.modules.demo.controller;
+package com.ruoyi.admin.platform.demo.controller;
 
 import java.util.ArrayList;
 import java.util.Arrays;
