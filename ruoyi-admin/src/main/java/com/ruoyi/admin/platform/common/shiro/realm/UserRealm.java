@@ -5,7 +5,7 @@ import com.ruoyi.admin.platform.common.utils.ShiroUtils;
 import com.ruoyi.admin.platform.system.domain.SysUser;
 import com.ruoyi.admin.platform.system.service.ISysMenuService;
 import com.ruoyi.admin.platform.system.service.ISysRoleService;
-import com.ruoyi.common.exception.user.*;
+import com.ruoyi.admin.platform.common.exception.user.*;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.authz.AuthorizationInfo;

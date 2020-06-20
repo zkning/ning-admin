@@ -9,7 +9,7 @@ import com.ruoyi.admin.platform.common.annotation.Excel;
 import com.ruoyi.admin.platform.common.annotation.Excel.ColumnType;
 import com.ruoyi.admin.platform.common.annotation.Excel.Type;
 import com.ruoyi.admin.platform.common.annotation.Excels;
-import com.ruoyi.common.core.domain.BaseEntity;
+import com.ruoyi.admin.platform.common.core.domain.BaseEntity;
 
 /**
  * 用户对象 sys_user

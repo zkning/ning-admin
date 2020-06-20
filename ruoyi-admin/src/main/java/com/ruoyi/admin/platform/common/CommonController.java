@@ -12,11 +12,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 import com.ruoyi.admin.platform.common.config.Global;
 import com.ruoyi.admin.platform.common.config.ServerConfig;
-import com.ruoyi.common.constant.Constants;
-import com.ruoyi.common.core.domain.AjaxResult;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.constant.Constants;
+import com.ruoyi.admin.platform.common.core.domain.AjaxResult;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 import com.ruoyi.admin.platform.common.utils.FileUploadUtils;
-import com.ruoyi.common.utils.file.FileUtils;
+import com.ruoyi.admin.platform.common.utils.file.FileUtils;
 
 /**
  * 通用请求处理

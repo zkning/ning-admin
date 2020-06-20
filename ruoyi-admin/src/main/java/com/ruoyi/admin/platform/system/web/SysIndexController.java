@@ -6,7 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
 import com.ruoyi.admin.platform.common.config.Global;
-import com.ruoyi.common.core.controller.BaseController;
+import com.ruoyi.admin.platform.common.core.controller.BaseController;
 import com.ruoyi.admin.platform.common.utils.ShiroUtils;
 import com.ruoyi.admin.platform.system.domain.SysMenu;
 import com.ruoyi.admin.platform.system.domain.SysUser;

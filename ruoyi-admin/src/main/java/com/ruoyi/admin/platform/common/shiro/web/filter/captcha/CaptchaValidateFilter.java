@@ -2,8 +2,8 @@ package com.ruoyi.admin.platform.common.shiro.web.filter.captcha;
 
 import com.google.code.kaptcha.Constants;
 import com.ruoyi.admin.platform.common.utils.ShiroUtils;
-import com.ruoyi.common.constant.ShiroConstants;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.constant.ShiroConstants;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 import org.apache.shiro.web.filter.AccessControlFilter;
 
 import javax.servlet.ServletRequest;

@@ -4,7 +4,7 @@ import java.io.Serializable;
 import org.apache.shiro.session.Session;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 import com.ruoyi.admin.platform.common.shiro.session.OnlineSession;
 import com.ruoyi.admin.platform.system.domain.SysUserOnline;
 import com.ruoyi.admin.platform.system.service.ISysUserOnlineService;

@@ -1,13 +1,11 @@
 package com.ruoyi.admin.platform.common.utils;
 
-import com.ruoyi.common.utils.IpUtils;
-import com.ruoyi.common.utils.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import com.alibaba.fastjson.JSONObject;
 import com.ruoyi.admin.platform.common.config.Global;
-import com.ruoyi.common.constant.Constants;
-import com.ruoyi.common.utils.http.HttpUtils;
+import com.ruoyi.admin.platform.common.constant.Constants;
+import com.ruoyi.admin.platform.common.utils.http.HttpUtils;
 
 /**
  * 获取地址类

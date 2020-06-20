@@ -3,17 +3,14 @@ package com.ruoyi.admin.platform.common.utils;
 import java.io.File;
 import java.io.IOException;
 
-import com.ruoyi.common.utils.file.MimeTypeUtils;
+import com.ruoyi.admin.platform.common.utils.file.MimeTypeUtils;
 import org.apache.commons.io.FilenameUtils;
 import org.springframework.web.multipart.MultipartFile;
 import com.ruoyi.admin.platform.common.config.Global;
-import com.ruoyi.common.constant.Constants;
-import com.ruoyi.common.exception.file.FileNameLengthLimitExceededException;
-import com.ruoyi.common.exception.file.FileSizeLimitExceededException;
-import com.ruoyi.common.exception.file.InvalidExtensionException;
-import com.ruoyi.common.utils.DateUtils;
-import com.ruoyi.common.utils.StringUtils;
-import com.ruoyi.common.utils.Md5Utils;
+import com.ruoyi.admin.platform.common.constant.Constants;
+import com.ruoyi.admin.platform.common.exception.file.FileNameLengthLimitExceededException;
+import com.ruoyi.admin.platform.common.exception.file.FileSizeLimitExceededException;
+import com.ruoyi.admin.platform.common.exception.file.InvalidExtensionException;
 
 /**
  * 文件上传工具类

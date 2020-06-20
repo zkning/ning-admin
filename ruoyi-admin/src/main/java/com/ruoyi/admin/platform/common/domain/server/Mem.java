@@ -1,6 +1,6 @@
 package com.ruoyi.admin.platform.common.domain.server;
 
-import com.ruoyi.common.utils.Arith;
+import com.ruoyi.admin.platform.common.utils.Arith;
 
 /**
  * 內存相关信息

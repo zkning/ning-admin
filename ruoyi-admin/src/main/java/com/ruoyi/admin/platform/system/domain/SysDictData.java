@@ -5,8 +5,8 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 import com.ruoyi.admin.platform.common.annotation.Excel;
 import com.ruoyi.admin.platform.common.annotation.Excel.ColumnType;
-import com.ruoyi.common.constant.UserConstants;
-import com.ruoyi.common.core.domain.BaseEntity;
+import com.ruoyi.admin.platform.common.constant.UserConstants;
+import com.ruoyi.admin.platform.common.core.domain.BaseEntity;
 
 /**
  * 字典数据表 sys_dict_data

@@ -4,9 +4,9 @@ import java.util.List;
 import javax.validation.Valid;
 import javax.validation.constraints.NotBlank;
 import org.apache.commons.lang3.ArrayUtils;
-import com.ruoyi.common.constant.GenConstants;
-import com.ruoyi.common.core.domain.BaseEntity;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.constant.GenConstants;
+import com.ruoyi.admin.platform.common.core.domain.BaseEntity;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 
 /**
  * 业务表 gen_table

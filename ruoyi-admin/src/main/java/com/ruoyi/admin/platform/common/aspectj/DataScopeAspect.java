@@ -11,8 +11,8 @@ import org.aspectj.lang.annotation.Pointcut;
 import org.aspectj.lang.reflect.MethodSignature;
 import org.springframework.stereotype.Component;
 import com.ruoyi.admin.platform.common.annotation.DataScope;
-import com.ruoyi.common.core.domain.BaseEntity;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.core.domain.BaseEntity;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 import com.ruoyi.admin.platform.system.domain.SysRole;
 import com.ruoyi.admin.platform.system.domain.SysUser;
 

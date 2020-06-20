@@ -2,7 +2,7 @@ package com.ruoyi.admin.platform.generator.util;
 
 import java.util.Properties;
 import org.apache.velocity.app.Velocity;
-import com.ruoyi.common.constant.Constants;
+import com.ruoyi.admin.platform.common.constant.Constants;
 
 /**
  * VelocityEngine工厂

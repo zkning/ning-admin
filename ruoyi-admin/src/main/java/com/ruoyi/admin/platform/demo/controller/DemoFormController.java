@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import com.alibaba.fastjson.JSON;
-import com.ruoyi.common.core.domain.AjaxResult;
-import com.ruoyi.common.core.domain.CxSelect;
+import com.ruoyi.admin.platform.common.core.domain.AjaxResult;
+import com.ruoyi.admin.platform.common.core.domain.CxSelect;
 
 /**
  * 表单相关

@@ -2,7 +2,7 @@ package com.ruoyi.admin.platform.common.config;
 
 import javax.servlet.http.HttpServletRequest;
 import org.springframework.stereotype.Component;
-import com.ruoyi.common.utils.ServletUtils;
+import com.ruoyi.admin.platform.common.utils.ServletUtils;
 
 /**
  * 服务相关配置

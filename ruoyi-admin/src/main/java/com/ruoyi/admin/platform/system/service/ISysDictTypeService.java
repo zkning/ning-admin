@@ -1,7 +1,7 @@
 package com.ruoyi.admin.platform.system.service;
 
 import java.util.List;
-import com.ruoyi.common.core.domain.Ztree;
+import com.ruoyi.admin.platform.common.core.domain.Ztree;
 import com.ruoyi.admin.platform.system.domain.SysDictData;
 import com.ruoyi.admin.platform.system.domain.SysDictType;
 

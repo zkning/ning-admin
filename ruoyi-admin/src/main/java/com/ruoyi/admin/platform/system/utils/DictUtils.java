@@ -1,9 +1,9 @@
 package com.ruoyi.admin.platform.system.utils;
 
 import java.util.List;
-import com.ruoyi.common.constant.Constants;
+import com.ruoyi.admin.platform.common.constant.Constants;
 import com.ruoyi.admin.platform.common.utils.CacheUtils;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 import com.ruoyi.admin.platform.system.domain.SysDictData;
 
 /**

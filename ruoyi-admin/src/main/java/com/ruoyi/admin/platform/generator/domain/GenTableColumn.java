@@ -1,8 +1,8 @@
 package com.ruoyi.admin.platform.generator.domain;
 
 import javax.validation.constraints.NotBlank;
-import com.ruoyi.common.core.domain.BaseEntity;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.core.domain.BaseEntity;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 
 /**
  * 代码生成业务字段表 gen_table_column

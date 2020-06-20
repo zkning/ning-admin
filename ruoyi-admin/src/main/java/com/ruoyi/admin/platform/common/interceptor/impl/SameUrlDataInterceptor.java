@@ -5,7 +5,7 @@ import java.util.Map;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
 import org.springframework.stereotype.Component;
-import com.ruoyi.common.json.JSON;
+import com.ruoyi.admin.platform.common.json.JSON;
 import com.ruoyi.admin.platform.common.interceptor.RepeatSubmitInterceptor;
 
 /**

@@ -3,7 +3,7 @@ package com.ruoyi.admin.platform.generator.service.impl;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.ruoyi.common.core.text.Convert;
+import com.ruoyi.admin.platform.common.core.text.Convert;
 import com.ruoyi.admin.platform.generator.domain.GenTableColumn;
 import com.ruoyi.admin.platform.generator.mapper.GenTableColumnMapper;
 import com.ruoyi.admin.platform.generator.service.IGenTableColumnService;

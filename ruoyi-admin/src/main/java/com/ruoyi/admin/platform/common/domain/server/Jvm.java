@@ -1,8 +1,8 @@
 package com.ruoyi.admin.platform.common.domain.server;
 
 import java.lang.management.ManagementFactory;
-import com.ruoyi.common.utils.Arith;
-import com.ruoyi.common.utils.DateUtils;
+import com.ruoyi.admin.platform.common.utils.Arith;
+import com.ruoyi.admin.platform.common.utils.DateUtils;
 
 /**
  * JVM相关信息

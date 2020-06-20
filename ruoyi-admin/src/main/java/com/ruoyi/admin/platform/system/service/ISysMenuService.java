@@ -3,7 +3,7 @@ package com.ruoyi.admin.platform.system.service;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-import com.ruoyi.common.core.domain.Ztree;
+import com.ruoyi.admin.platform.common.core.domain.Ztree;
 import com.ruoyi.admin.platform.system.domain.SysMenu;
 import com.ruoyi.admin.platform.system.domain.SysRole;
 import com.ruoyi.admin.platform.system.domain.SysUser;

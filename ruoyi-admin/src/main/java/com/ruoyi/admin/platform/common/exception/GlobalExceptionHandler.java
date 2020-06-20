@@ -9,10 +9,8 @@ import org.springframework.web.HttpRequestMethodNotSupportedException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.ModelAndView;
-import com.ruoyi.common.core.domain.AjaxResult;
-import com.ruoyi.common.exception.BusinessException;
-import com.ruoyi.common.exception.DemoModeException;
-import com.ruoyi.common.utils.ServletUtils;
+import com.ruoyi.admin.platform.common.core.domain.AjaxResult;
+import com.ruoyi.admin.platform.common.utils.ServletUtils;
 import com.ruoyi.admin.platform.common.utils.PermissionUtils;
 
 /**

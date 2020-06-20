@@ -7,9 +7,9 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 import com.ruoyi.admin.platform.common.annotation.RepeatSubmit;
-import com.ruoyi.common.core.domain.AjaxResult;
-import com.ruoyi.common.json.JSON;
-import com.ruoyi.common.utils.ServletUtils;
+import com.ruoyi.admin.platform.common.core.domain.AjaxResult;
+import com.ruoyi.admin.platform.common.json.JSON;
+import com.ruoyi.admin.platform.common.utils.ServletUtils;
 
 /**
  * 防止重复提交拦截器

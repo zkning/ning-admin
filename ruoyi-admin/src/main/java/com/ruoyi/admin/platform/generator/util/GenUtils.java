@@ -2,8 +2,8 @@ package com.ruoyi.admin.platform.generator.util;
 
 import java.util.Arrays;
 import org.apache.commons.lang3.RegExUtils;
-import com.ruoyi.common.constant.GenConstants;
-import com.ruoyi.common.utils.StringUtils;
+import com.ruoyi.admin.platform.common.constant.GenConstants;
+import com.ruoyi.admin.platform.common.utils.StringUtils;
 import com.ruoyi.admin.platform.generator.config.GenConfig;
 import com.ruoyi.admin.platform.generator.domain.GenTable;
 import com.ruoyi.admin.platform.generator.domain.GenTableColumn;

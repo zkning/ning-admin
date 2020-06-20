@@ -1,7 +1,7 @@
 package com.ruoyi.admin.platform.common.shiro.session;
 
 import org.apache.shiro.session.mgt.SimpleSession;
-import com.ruoyi.common.enums.OnlineStatus;
+import com.ruoyi.admin.platform.common.enums.OnlineStatus;
 
 /**
  * 在线用户会话属性

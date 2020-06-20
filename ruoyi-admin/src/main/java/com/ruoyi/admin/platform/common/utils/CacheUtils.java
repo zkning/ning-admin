@@ -6,7 +6,7 @@ import org.apache.shiro.cache.Cache;
 import org.apache.shiro.cache.CacheManager;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.ruoyi.common.utils.spring.SpringUtils;
+import com.ruoyi.admin.platform.common.utils.spring.SpringUtils;
 
 /**
  * Cache工具类
